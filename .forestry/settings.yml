@@ -17,7 +17,6 @@ sections:
 - type: document
   path: content
   label: Document
-  match: "**/*"
 - type: directory
   path: content
   label: Page
